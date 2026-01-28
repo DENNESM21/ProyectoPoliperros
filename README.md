@@ -1,14 +1,14 @@
-# 🐍 Proyecto PoliPerros
+# 😺 Proyecto PoliPerros
 
-## 📌 Descripción
+## Descripción
 Sistema desarrollado en **Python** que permite la gestión de información mediante
 operaciones **CRUD**, utilizando archivos de texto para el almacenamiento de datos.
 
-## 🎯 Objetivo
+## Objetivo
 Desarrollar una aplicación funcional en Python aplicando conceptos básicos de
 programación y manejo de archivos.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Crear registros  
 - Consultar información  
 - Actualizar datos  
